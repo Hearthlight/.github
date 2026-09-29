@@ -63,7 +63,39 @@ textures, music and sounds are generated in code. Available under the [MIT licen
 
 ---
 
+## Discover my other projects
+
 <p align="center">
-  <strong>More little companions?</strong><br>
-  Meet <a href="https://toplings.com/"><strong>Toplings</strong></a> — desktop companions from the same creator.
+  <a href="https://toplings.com/">
+    <img src="https://raw.githubusercontent.com/Hearthlight/.github/main/profile/assets/toplings-logo.png" width="360" alt="Toplings — a pink pixel-art axolotl perched beside a tiny laptop">
+  </a>
+</p>
+
+<p align="center">
+  <strong>A little company for your desktop.</strong><br>
+  Pixel-art pets that walk along your real windows, climb, nap and play.<br>
+  Pick them up, give them a gentle toss, and let them make themselves at home.
+</p>
+
+<p align="center">
+  <a href="https://toplings.com/galerie.html">
+    <img src="https://raw.githubusercontent.com/Hearthlight/.github/main/profile/assets/toplings-axolotl.png" width="96" height="96" alt="A little pink axolotl">
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/Hearthlight/.github/main/profile/assets/toplings-corgi.png" width="128" height="128" alt="A cheerful corgi">
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/Hearthlight/.github/main/profile/assets/toplings-fox.png" width="128" height="128" alt="A curious orange fox">
+  </a>
+</p>
+
+<p align="center">
+  Adopt an axolotl, a corgi or a fox — or turn your own image into a new companion.<br>
+  <sub>Available for macOS and Windows · Free to start</sub>
+</p>
+
+<p align="center">
+  <a href="https://toplings.com/"><strong>Discover Toplings →</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://toplings.com/galerie.html">Meet the companions</a>
+  &nbsp; · &nbsp;
+  <a href="https://toplings.com/creer.html">Create your own</a>
 </p>
